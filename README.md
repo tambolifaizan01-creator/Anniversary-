@@ -53,7 +53,7 @@ border-radius:12px;
 <button onclick="addLetter('z')">Z</button><button onclick="addLetter('x')">X</button><button onclick="addLetter('c')">C</button><button onclick="addLetter('v')">V</button><button onclick="addLetter('b')">B</button><button onclick="addLetter('n')">N</button><button onclick="addLetter('m')">M</button><button onclick="clearPass()">⌫</button>
 </div>
 </div>
-<br><button onclick="checkPass()">Unlock тo view next page</button>
+<br><button onclick="checkPass()">Unlock to view next page</button>
 </div>
 
 <div id="page2" class="page">
